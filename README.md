@@ -97,8 +97,8 @@ By computing the sound direction in real time, the robot can physically rotate t
 2. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/audio-localization-robot.git
-   cd audio-localization-robot
+   git clone https://github.com/alanfellerv/Audio-Source-Localisationbot
+   cd Audio-Source-Localisationbot
    ```
 
 3. **Build and Upload**
